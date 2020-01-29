@@ -1,0 +1,26 @@
+{
+   "short_name": "Sachin Gwasikoti",
+   "name": "Sachin Gwasikoti",
+   "background_color": "#222",
+   "theme_color": "#222",
+   "display": "browser",
+   "orientation": "portrait",
+   "icons": [
+      {
+         "src": "assets/images/launcher-icon-1x.png",
+         "type": "image/png",
+         "sizes": "48x48"
+      },
+      {
+         "src": "assets/images/launcher-icon-2x.png",
+         "type": "image/png",
+         "sizes": "96x96"
+      },
+      {
+         "src": "assets/images/launcher-icon-4x.png",
+         "type": "image/png",
+         "sizes": "192x192"
+      }
+   ],
+   "start_url": "index.html?launcher=true"
+}
